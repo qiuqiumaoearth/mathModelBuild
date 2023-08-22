@@ -41,7 +41,7 @@
 ##引用文本：
 >引用别人说的话
 就这样写
->By.OrangeX4
+By.OrangeX4
 
 ---
 
@@ -120,6 +120,9 @@ function add (x,y){
 ```
 ---
 # 数学公式支持
+## 特殊字符
+![zifu](zifu.png)
+
 ## 行内公式：
 单位圆 $x^2+y^2=1$
 ## 公式块：
@@ -230,7 +233,7 @@ $$
 \end{vmatrix}
 $$
 ### 10. 特殊字符
-    ![Alt text](v2-842b02c54dd7d8e0571609414e79bdc1_720w.png)
+    ![Alt text](image-1.png)
 ### 11. 公式编号与引用
 $$
 x+2 \tag{1.2}
