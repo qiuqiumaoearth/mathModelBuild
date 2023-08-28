@@ -4,3 +4,4 @@
 # 1. 安装git
 官方链接：https://git-scm.com/downloads
 
+$L_{ki}=1$
